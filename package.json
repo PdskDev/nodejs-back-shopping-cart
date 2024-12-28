@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-shopping-cart",
+  "version": "1.0.0",
+  "description": "Nodejs backend app for Angular Shopping cart front",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PdskDev/nodejs-back-shopping-cart.git"
+  },
+  "author": "NadetDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PdskDev/nodejs-back-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/PdskDev/nodejs-back-shopping-cart#readme"
+}
